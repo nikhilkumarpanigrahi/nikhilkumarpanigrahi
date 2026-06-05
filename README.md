@@ -25,8 +25,6 @@
 
 ### ✏️ &nbsp;About Me
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumarpanigrahi&layout=compact&bg_color=FFFFFF&title_color=007AFF&text_color=1C1C1E&border_color=E5E5EA&border_radius=12&langs_count=6" alt="Top Languages"/>
-
 ```yaml
 Name   : Nikhil Kumar Panigrahi
 Degree : B.Tech CSE  ·  KL University, Hyderabad
@@ -52,12 +50,12 @@ Status : Open to internships & collaborations
 <div align="center">
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,py,kotlin&theme=light" alt="Languages"/><br/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,kotlin&theme=light" alt="Languages"/><br/>
 <sub><b>Languages</b></sub>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=flask,postgres,mongodb,firebase&theme=light" alt="Backend & Databases"/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=light" alt="Backend & Databases"/><br/>
 <sub><b>Backend &nbsp;·&nbsp; Databases</b></sub>
 
 <br/><br/>
@@ -68,47 +66,10 @@ Status : Open to internships & collaborations
 <br/><br/>
 
 <kbd>Scikit-learn</kbd> &nbsp; <kbd>NLP Embeddings</kbd> &nbsp; <kbd>RAG Pipelines</kbd> &nbsp; <kbd>Computer Vision / OCR</kbd><br/>
-<sub><b>ML &nbsp;/&nbsp; AI</b></sub>
+<sub><kbd>ML &nbsp;/&nbsp; AI</kbd></sub>
 
 <br/>
 </div>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<img height="182" src="https://github-readme-stats.vercel.app/api?username=nikhilkumarpanigrahi&show_icons=true&bg_color=FFFFFF&title_color=007AFF&icon_color=34C759&text_color=1C1C1E&border_color=E5E5EA&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>&nbsp;&nbsp;
-<img height="182" src="https://streak-stats.demolab.com?user=nikhilkumarpanigrahi&background=FFFFFF&border=E5E5EA&ring=007AFF&fire=FF9500&currStreakLabel=007AFF&sideNums=1C1C1E&currStreakNum=1C1C1E&sideLabels=6B7280&dates=8E8E93&border_radius=12&hide_border=false" alt="Streak Stats"/>
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ CONTRIBUTION GRAPH ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### 🌱 &nbsp;Contribution Activity
-
-<div align="center">
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilkumarpanigrahi&bg_color=FFFFFF&color=1E3A8A&line=007AFF&point=FF9500&area=true&area_color=DBEAFE&hide_border=false&border_color=E5E5EA&radius=8&custom_title=Nikhil's%20Contribution%20Graph" alt="Contribution Graph"/>
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### 🏅 &nbsp;GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikhilkumarpanigrahi&theme=flat&no-frame=false&margin-w=6&column=7&title_color=007AFF&text_color=1C1C1E" alt="Trophies"/>
-</div>
-
----
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ PROJECTS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
