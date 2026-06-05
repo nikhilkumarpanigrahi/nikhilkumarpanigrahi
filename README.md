@@ -148,7 +148,7 @@ Flask + React.js with Firebase real-time sync. JWT auth + **RBAC across 3 user r
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ COMPETITIVE PROG ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-### 🎯 &nbsp;Competitive Programming
+### 🎯 &nbsp;Coding Profilea
 
 <div align="center">
 <br/>
