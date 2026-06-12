@@ -121,7 +121,7 @@ Flask + React.js with Firebase real-time sync. JWT auth + **RBAC across 3 user r
 <td width="50%" valign="top">
 
 **📱 &nbsp;Oppia Android**
-&nbsp;[PR #6121](https://github.com/oppia/oppia-android/pull/6121) &nbsp;·&nbsp; [PR #6144](https://github.com/oppia/oppia-android/pull/6144) &nbsp;·&nbsp; [PR #6175](https://github.com/oppia/oppia-android/pull/6175)
+&nbsp;[PR #6121](https://github.com/oppia/oppia-android/pull/6121) &nbsp;·&nbsp; [PR #6144](https://github.com/oppia/oppia-android/pull/6144) &nbsp;·&nbsp; [PR #6175](https://github.com/oppia/oppia-android/pull/6175) &nbsp;·&nbsp; [PR #6198](https://github.com/oppia/oppia-android/pull/6198)
 
 *Open Source · CLAM Team Member & Collaborator*
 
