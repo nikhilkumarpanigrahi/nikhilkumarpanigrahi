@@ -118,14 +118,14 @@ Flask + React.js with Firebase real-time sync. JWT auth + **RBAC across 3 user r
 <kbd>Flask</kbd> &nbsp;<kbd>React.js</kbd> &nbsp;<kbd>Firebase</kbd> &nbsp;<kbd>JWT + RBAC</kbd>
 
 </td>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 **📱 &nbsp;Oppia Android**
 &nbsp;[PR #6121](https://github.com/oppia/oppia-android/pull/6121) &nbsp;·&nbsp; [PR #6144](https://github.com/oppia/oppia-android/pull/6144) &nbsp;·&nbsp; [PR #6175](https://github.com/oppia/oppia-android/pull/6175) &nbsp;·&nbsp; [PR #6198](https://github.com/oppia/oppia-android/pull/6198)
 
 *Open Source · CLAM Team Member & Collaborator*
 
-3 PRs merged by core maintainers — unit/UI tests, transparent image detection, math tag validation, `AsyncResultSubject` test coverage.
+4 PRs merged by core maintainers — unit/UI tests, transparent image detection, math tag validation, `AsyncResultSubject` test coverage.
 
 <kbd>Kotlin</kbd> &nbsp;<kbd>Android</kbd> &nbsp;<kbd>Unit Tests</kbd> &nbsp;<kbd>Open Source</kbd>
 
