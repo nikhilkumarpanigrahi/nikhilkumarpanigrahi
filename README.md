@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="assets/header-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg?v=4">
+  <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="assets/header-light.svg?v=4">
 </picture>
 
 ```yaml
@@ -56,7 +56,8 @@ Building things that make data useful — from REST APIs to retrieval pipelines.
 
 ## Selected Projects
 
-- **[CompanyMind](https://github.com/nikhilkumarpanigrahi/CompanyMind)** — Semantic search and RAG over 2,000+ enterprise documents. Hybrid retrieval (MongoDB Atlas Vector Search + full-text + Reciprocal Rank Fusion), FastAPI/Express.js, Groq Llama 3, SSE streaming. Cached responses < 1 ms, hybrid retrieval < 200 ms. *2nd Runner-Up, MongoDB Smart Bridge Hack N Go.* — [Live](https://companymind-web.onrender.com/)
+- **[CompanyMind](https://github.com/nikhilkumarpanigrahi/CompanyMind)** — Semantic search and RAG over 2,000+ enterprise documents. Hybrid retrieval (MongoDB Atlas Vector Search + full-text + Reciprocal Rank Fusion), FastAPI/Express.js, Groq Llama 3, SSE streaming. Cached responses < 1 ms, hybrid retrieval < 200 ms. — [Live](https://companymind-web.onrender.com/)
+  - 🏆 **2nd Runner-Up — MongoDB Smart Bridge Hack N Go**
 - **[ASSISTLY](https://github.com/nikhilkumarpanigrahi/Assistly)** — Community-care platform. Flask + React.js + Firebase real-time sync, JWT auth with role-based access. — [Live](https://assistly-oojv.onrender.com/login)
 - **[Aadhaar Fraud Detection](https://github.com/nikhilkumarpanigrahi/AI-BASED-FRAUD-DETECTTION-SYSTEM-USING-UID-AADHAAR)** — OCR + ML identity verification (see Infosys internship above).
 
