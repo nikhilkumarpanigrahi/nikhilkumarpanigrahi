@@ -22,8 +22,8 @@
     <clipPath id="pd3"><rect x="64" y="303" width="378" height="17">
       <animate attributeName="width" from="0" to="378" dur="0.6s" begin="4.0s" fill="freeze"/>
     </rect></clipPath>
-    <clipPath id="pf"><rect x="40" y="361" width="504" height="17">
-      <animate attributeName="width" from="0" to="504" dur="0.7s" begin="5.1s" fill="freeze"/>
+    <clipPath id="pf"><rect x="40" y="361" width="342" height="17">
+      <animate attributeName="width" from="0" to="342" dur="0.7s" begin="5.1s" fill="freeze"/>
     </rect></clipPath>
   </defs>
 
@@ -67,6 +67,6 @@
     <text x="520" y="338" opacity="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#57606A">85% accuracy<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.8s" fill="freeze"/></text>
     <text x="930" y="296" opacity="0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#0969DA">→ code<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.9s" fill="freeze"/></text>
 
-    <text x="40" y="361" clip-path="url(#pf)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#6E7781">3 projects · 2 deployed · open source — see them below</text>
+    <text x="40" y="361" clip-path="url(#pf)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#6E7781">3 projects · 2 deployed · open source</text>
   </g>
 </svg>

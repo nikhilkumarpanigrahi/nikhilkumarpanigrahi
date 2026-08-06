@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-light.svg?v=2">
-  <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-light.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-light.svg?v=3">
+  <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-light.svg?v=3">
 </picture>
 
 ```yaml
@@ -57,19 +57,22 @@ Building things that make data useful — from REST APIs to retrieval pipelines.
 ## Selected Projects
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-light.svg?v=2">
-  <img alt="Projects — CompanyMind, ASSISTLY, Aadhaar Fraud Detection" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-light.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-light.svg?v=3">
+  <img alt="Projects — CompanyMind, ASSISTLY, Aadhaar Fraud Detection" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-light.svg?v=3">
 </picture>
 
-- **[CompanyMind](https://github.com/nikhilkumarpanigrahi/CompanyMind)** — Semantic search and RAG over 2,000+ enterprise documents. Hybrid retrieval (MongoDB Atlas Vector Search + full-text + Reciprocal Rank Fusion), FastAPI/Express.js, Groq Llama 3, SSE streaming. Cached responses < 1 ms, hybrid retrieval < 200 ms. *2nd Runner-Up, MongoDB Smart Bridge Hack N Go.* — [Live](https://companymind-web.onrender.com/)
-- **[ASSISTLY](https://github.com/nikhilkumarpanigrahi/Assistly)** — Community-care platform. Flask + React.js + Firebase real-time sync, JWT auth with role-based access. — [Live](https://assistly-oojv.onrender.com/login)
-- **[Aadhaar Fraud Detection](https://github.com/nikhilkumarpanigrahi/AI-BASED-FRAUD-DETECTTION-SYSTEM-USING-UID-AADHAAR)** — OCR + ML identity verification (see Infosys internship above).
+**[CompanyMind](https://github.com/nikhilkumarpanigrahi/CompanyMind)** · **[ASSISTLY](https://github.com/nikhilkumarpanigrahi/Assistly)** · **[Aadhaar Fraud Detection](https://github.com/nikhilkumarpanigrahi/AI-BASED-FRAUD-DETECTTION-SYSTEM-USING-UID-AADHAAR)**
 
 ## Open Source
 
-- **Oppia Android** — CLAM Team member. [PR #6121](https://github.com/oppia/oppia-android/pull/6121) · [PR #6144](https://github.com/oppia/oppia-android/pull/6144) · [PR #6175](https://github.com/oppia/oppia-android/pull/6175) · [PR #6198](https://github.com/oppia/oppia-android/pull/6198) — Kotlin unit/UI tests across merged PRs.
-- **freeCodeCamp** — [PR #63866](https://github.com/freeCodeCamp/freeCodeCamp/pull/63866) — Java OOP curriculum content, served to 10M+ learners.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/opensource-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/opensource-light.svg?v=3">
+  <img alt="Open Source — Oppia Android, freeCodeCamp" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/opensource-light.svg?v=3">
+</picture>
+
+**[Oppia Android — 4 merged PRs](https://github.com/oppia/oppia-android/pulls?q=is%3Apr+author%3Anikhilkumarpanigrahi)** · **[freeCodeCamp — PR #63866](https://github.com/freeCodeCamp/freeCodeCamp/pull/63866)**
 
 ## Certifications
 
