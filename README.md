@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="assets/header-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-light.svg?v=2">
+  <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-light.svg?v=2">
 </picture>
 
 ```yaml
@@ -55,6 +55,12 @@ Building things that make data useful — from REST APIs to retrieval pipelines.
 - Deployed Scikit-learn models behind stateless Flask REST APIs for real-time inference.
 
 ## Selected Projects
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-light.svg?v=2">
+  <img alt="Projects — CompanyMind, ASSISTLY, Aadhaar Fraud Detection" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-light.svg?v=2">
+</picture>
 
 - **[CompanyMind](https://github.com/nikhilkumarpanigrahi/CompanyMind)** — Semantic search and RAG over 2,000+ enterprise documents. Hybrid retrieval (MongoDB Atlas Vector Search + full-text + Reciprocal Rank Fusion), FastAPI/Express.js, Groq Llama 3, SSE streaming. Cached responses < 1 ms, hybrid retrieval < 200 ms. *2nd Runner-Up, MongoDB Smart Bridge Hack N Go.* — [Live](https://companymind-web.onrender.com/)
 - **[ASSISTLY](https://github.com/nikhilkumarpanigrahi/Assistly)** — Community-care platform. Flask + React.js + Firebase real-time sync, JWT auth with role-based access. — [Live](https://assistly-oojv.onrender.com/login)
