@@ -1,190 +1,72 @@
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EFF6FF,50:DBEAFE,100:EFF6FF&height=210&section=header&text=Nikhil%20Kumar%20Panigrahi&fontSize=46&fontColor=1E3A8A&animation=fadeIn&fontAlignY=56&desc=Backend%20Developer%20%C2%B7%20ML%20Engineer%20%C2%B7%20Open%20Source%20Contributor&descColor=6B7280&descSize=16&descAlignY=75"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="assets/header-light.svg">
+</picture>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ PROFILE BLOCK ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<div align="center">
+```text
+> whoami --verbose
 
-<img src="https://github.com/nikhilkumarpanigrahi.png?size=400" width="155" alt="Nikhil Kumar Panigrahi"/>
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=2800&pause=1000&color=007AFF&center=true&vCenter=true&width=680&lines=Hey+there%2C+I'm+Nikhil+%F0%9F%91%8B;Computer+Science+%40+KL+University+%E2%80%A2+CGPA+9.7;Backend+Developer+%26+ML+Engineer;2nd+Runner-Up+%E2%80%94+MongoDB+Hackathon;CLAM+Collaborator+%E2%80%94+Oppia+Android;Always+building+something+new+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=nikhilkumarpanigrahi&color=007AFF&style=flat-square&label=Profile+Views)&nbsp;
-![Followers](https://img.shields.io/github/followers/nikhilkumarpanigrahi?color=34C759&style=flat-square&label=Followers&logo=github&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### ✏️ &nbsp;About Me
-
-```yaml
-Name   : Nikhil Kumar Panigrahi
-Degree : B.Tech CSE  ·  KL University, Hyderabad
-CGPA   : 9.7 / 10.0
-Focus  : Backend  ·  REST APIs  ·  RAG Pipelines
-Status : Open to internships & collaborations
+name     : Nikhil Kumar Panigrahi
+role     : Backend Developer Intern @ WhatBytes (Django DRF · PostgreSQL)
+base     : Hyderabad, India · B.Tech CSE @ KL University (CGPA 9.7)
+focus    : production REST APIs · RAG pipelines · open source
 ```
 
-🏆 &nbsp;**2nd Runner-Up** — MongoDB Smart Bridge Hack N Go Hackathon  
-🤝 &nbsp;**CLAM Team Member** @ Oppia Android &nbsp;·&nbsp; *3 PRs merged by core maintainers*  
-💼 &nbsp;**AI/ML Intern** @ Infosys Springboard &nbsp;·&nbsp; *85% fraud detection accuracy*  
-🎓 &nbsp;**MongoDB Associate Developer** Certified  
-🌐 &nbsp;**freeCodeCamp Contributor** — Java OOP for **10M+ learners**
+---
 
-<br clear="right"/>
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/Django-1F2937?style=for-the-badge&logo=django&logoColor=44B78B)
+![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-1F2937?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2937?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1F2937?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=2496ED)
+![React](https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+## Experience
 
-### 🛠 &nbsp;Tech Stack
+**Backend Developer Intern — WhatBytes** · `Jun 2026 – present`
+- Built production REST APIs for a construction-management platform: GPS-geofenced attendance, trip lifecycle, and fuel tracking.
+- Implemented JWT + OTP authentication and role-based access control across 6 user roles on a production PostgreSQL backend.
+- Wrote 12+ database schema migrations and designed an asset-management system with 3-state status tracking.
 
-<div align="center">
-<br/>
+**AI / ML Virtual Intern — Infosys Springboard** · `Sep 2025 – Nov 2025`
+- Shipped an OCR + ML pipeline for Aadhaar identity verification: 85% fraud-detection accuracy, 60% less manual review time across 200+ documents.
+- Deployed Scikit-learn models behind stateless Flask REST APIs for real-time inference.
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,kotlin&theme=light" alt="Languages"/><br/>
-<sub><b>Languages</b></sub>
+## Selected Projects
 
-<br/><br/>
+- **[CompanyMind](https://github.com/nikhilkumarpanigrahi/CompanyMind)** — Semantic search and RAG over 2,000+ enterprise documents. Hybrid retrieval (MongoDB Atlas Vector Search + full-text + Reciprocal Rank Fusion), FastAPI/Express.js, Groq Llama 3, SSE streaming. Cached responses < 1 ms, hybrid retrieval < 200 ms. *2nd Runner-Up, MongoDB Smart Bridge Hack N Go.* — [Live](https://companymind-web.onrender.com/)
+- **[ASSISTLY](https://github.com/nikhilkumarpanigrahi/Assistly)** — Community-care platform. Flask + React.js + Firebase real-time sync, JWT auth with role-based access. — [Live](https://assistly-oojv.onrender.com/login)
+- **[Aadhaar Fraud Detection](https://github.com/nikhilkumarpanigrahi/AI-BASED-FRAUD-DETECTTION-SYSTEM-USING-UID-AADHAAR)** — OCR + ML identity verification (see Infosys internship above).
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase&theme=light" alt="Backend & Databases"/><br/>
-<sub><b>Backend &nbsp;·&nbsp; Databases</b></sub>
+## Open Source
 
-<br/><br/>
+- **Oppia Android** — CLAM Team member. [PR #6121](https://github.com/oppia/oppia-android/pull/6121) · [PR #6144](https://github.com/oppia/oppia-android/pull/6144) · [PR #6175](https://github.com/oppia/oppia-android/pull/6175) · [PR #6198](https://github.com/oppia/oppia-android/pull/6198) — Kotlin unit/UI tests across merged PRs.
+- **freeCodeCamp** — [PR #63866](https://github.com/freeCodeCamp/freeCodeCamp/pull/63866) — Java OOP curriculum content, served to 10M+ learners.
 
-<img src="https://skillicons.dev/icons?i=react,androidstudio,git,github,postman&theme=light" alt="Tools"/><br/>
-<sub><b>Frontend &nbsp;·&nbsp; Mobile &nbsp;·&nbsp; Tools</b></sub>
+## Certifications
 
-<br/><br/>
-
-<kbd>Scikit-learn</kbd> &nbsp; <kbd>NLP Embeddings</kbd> &nbsp; <kbd>RAG Pipelines</kbd> &nbsp; <kbd>Computer Vision / OCR</kbd><br/>
-<sub><kbd>ML &nbsp;/&nbsp; AI</kbd></sub>
-
-<br/>
-</div>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ PROJECTS ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### 🚀 &nbsp;Featured Projects
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏆 &nbsp;CompanyMind**
-&nbsp;[GitHub](https://github.com/nikhilkumarpanigrahi/CompanyMind) &nbsp;·&nbsp; [Live](https://companymind-web.onrender.com/) &nbsp;·&nbsp; [Embedding Service](https://companymind-embed-service.onrender.com/)
-
-*Semantic Search & RAG Platform*
-> 2nd Runner-Up — MongoDB Smart Bridge Hack N Go
-
-Semantic search over **2,000+ documents** using NLP embeddings + MongoDB Atlas Vector Search. Full RAG pipeline — ingest → chunk → embed → retrieve → LLM generate.
-
-<kbd>MongoDB Atlas</kbd> &nbsp;<kbd>Flask</kbd> &nbsp;<kbd>RAG</kbd> &nbsp;<kbd>NLP Embeddings</kbd>
-
-</td>
-<td width="50%" valign="top">
-
-**🔍 &nbsp;Aadhaar Fraud Detection**
-&nbsp;[GitHub](https://github.com/nikhilkumarpanigrahi/AI-BASED-FRAUD-DETECTTION-SYSTEM-USING-UID-AADHAAR)
-
-*AI/ML Internship @ Infosys Springboard*
-
-End-to-end OCR + ML pipeline for Aadhaar verification. **85% detection accuracy**, **60% reduction** in manual review time across 200+ documents. Stateless Flask REST API.
-
-<kbd>Scikit-learn</kbd> &nbsp;<kbd>Flask</kbd> &nbsp;<kbd>OCR</kbd> &nbsp;<kbd>Computer Vision</kbd>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤝 &nbsp;ASSISTLY**
-&nbsp;[GitHub](https://github.com/nikhilkumarpanigrahi/Assistly) &nbsp;·&nbsp; [Live](https://assistly-oojv.onrender.com/login)
-
-*Community Care Platform*
-
-Flask + React.js with Firebase real-time sync. JWT auth + **RBAC across 3 user roles** with route-level access control. Optimised with `useMemo` / `useCallback`.
-
-<kbd>Flask</kbd> &nbsp;<kbd>React.js</kbd> &nbsp;<kbd>Firebase</kbd> &nbsp;<kbd>JWT + RBAC</kbd>
-
-</td>
-<td width="70%" valign="top">
-
-**📱 &nbsp;Oppia Android**
-&nbsp;[PR #6121](https://github.com/oppia/oppia-android/pull/6121) &nbsp;·&nbsp; [PR #6144](https://github.com/oppia/oppia-android/pull/6144) &nbsp;·&nbsp; [PR #6175](https://github.com/oppia/oppia-android/pull/6175) &nbsp;·&nbsp; [PR #6198](https://github.com/oppia/oppia-android/pull/6198)
-
-*Open Source · CLAM Team Member & Collaborator*
-
-4 PRs merged by core maintainers — unit/UI tests, transparent image detection, math tag validation, `AsyncResultSubject` test coverage.
-
-<kbd>Kotlin</kbd> &nbsp;<kbd>Android</kbd> &nbsp;<kbd>Unit Tests</kbd> &nbsp;<kbd>Open Source</kbd>
-
-</td>
-</tr>
-</table>
+- MongoDB Associate Developer
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ OPEN SOURCE ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumarpanigrahi&layout=compact&hide_border=true&bg_color=0D1117&text_color=8B949E&title_color=58A6FF&icon_color=58A6FF&langs_count=6">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumarpanigrahi&layout=compact&hide_border=true&bg_color=FFFFFF&text_color=374151&title_color=4338CA&icon_color=4338CA&langs_count=6">
+</picture>
 
-### 🌍 &nbsp;Open Source Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/output/github-contribution-grid-snake.svg">
+</picture>
 
-| Organization | Role | Pull Requests | Impact |
-|---|---|---|---|
-| **Oppia Android** | CLAM Team Member & Collaborator | [#6121](https://github.com/oppia/oppia-android/pull/6121) &nbsp;·&nbsp; [#6144](https://github.com/oppia/oppia-android/pull/6144) &nbsp;·&nbsp; [#6175](https://github.com/oppia/oppia-android/pull/6175) | Reviewed & merged by core maintainers |
-| **freeCodeCamp** | Contributor | [#63866](https://github.com/freeCodeCamp/freeCodeCamp/pull/63866) | Java OOP curriculum — **10M+ learners** |
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ COMPETITIVE PROG ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### 🎯 &nbsp;Coding Profiles
-
-<div align="center">
-<br/>
-
-[![CodeChef](https://img.shields.io/badge/CodeChef%20%20free__flies__92-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/free_flies_92)&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode%20%20Nikhil__162-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Nikhil_162)&nbsp;&nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces%20%20nomort0002-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nomort0002)
-
-<br/>
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-### 📬 &nbsp;Let's Connect
-
-<div align="center">
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhilkumarpanigrahi29@gmail.com)&nbsp; **nikhilkumarpanigrahi29@gmail.com**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkumarpanigrahi)&nbsp; **linkedin.com/in/nikhilkumarpanigrahi**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nikhilkumarpanigrahi)&nbsp; **github.com/nikhilkumarpanigrahi**
-
-<br/><br/>
-
-*Always open to interesting conversations, collaborations, and opportunities* ✨
-
-<br/>
-</div>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EFF6FF,50:DBEAFE,100:EFF6FF&height=110&section=footer"/>
+Find me on [GitHub](https://github.com/nikhilkumarpanigrahi) · [LinkedIn](https://www.linkedin.com/in/nikhilkumarpanigrahi) · [Email](mailto:nikhilkumarpanigrahi29@gmail.com) · [LeetCode](https://leetcode.com/Nikhil_162) · [CodeChef](https://www.codechef.com/users/free_flies_92) · [Codeforces](https://codeforces.com/profile/nomort0002)
