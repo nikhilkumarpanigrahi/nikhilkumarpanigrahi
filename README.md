@@ -22,10 +22,6 @@ previously:
 open_to: internships & collaborations
 ```
 
-● &nbsp;open to internships & collaborations
-
-Building things that make data useful — from REST APIs to retrieval pipelines. Always happy to talk backend, ML, or open source.
-
 ---
 
 ## Tech Stack
