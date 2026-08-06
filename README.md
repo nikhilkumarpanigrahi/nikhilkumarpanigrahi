@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-light.svg?v=3">
-  <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/header-light.svg?v=3">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="assets/header-light.svg">
 </picture>
 
 ```yaml
@@ -57,9 +57,9 @@ Building things that make data useful — from REST APIs to retrieval pipelines.
 ## Selected Projects
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-light.svg?v=3">
-  <img alt="Projects — CompanyMind, ASSISTLY, Aadhaar Fraud Detection" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/projects-light.svg?v=3">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects-light.svg">
+  <img alt="Projects — CompanyMind, ASSISTLY, Aadhaar Fraud Detection" src="assets/projects-light.svg">
 </picture>
 
 **[CompanyMind](https://github.com/nikhilkumarpanigrahi/CompanyMind)** · **[ASSISTLY](https://github.com/nikhilkumarpanigrahi/Assistly)** · **[Aadhaar Fraud Detection](https://github.com/nikhilkumarpanigrahi/AI-BASED-FRAUD-DETECTTION-SYSTEM-USING-UID-AADHAAR)**
@@ -67,9 +67,9 @@ Building things that make data useful — from REST APIs to retrieval pipelines.
 ## Open Source
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/opensource-dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/opensource-light.svg?v=3">
-  <img alt="Open Source — Oppia Android, freeCodeCamp" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/main/assets/opensource-light.svg?v=3">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/opensource-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/opensource-light.svg">
+  <img alt="Open Source — Oppia Android, freeCodeCamp" src="assets/opensource-light.svg">
 </picture>
 
 **[Oppia Android — 4 merged PRs](https://github.com/oppia/oppia-android/pulls?q=is%3Apr+author%3Anikhilkumarpanigrahi)** · **[freeCodeCamp — PR #63866](https://github.com/freeCodeCamp/freeCodeCamp/pull/63866)**
