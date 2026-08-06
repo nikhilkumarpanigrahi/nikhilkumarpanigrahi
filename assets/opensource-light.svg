@@ -39,7 +39,6 @@
       <animate attributeName="width" from="0" to="396" dur="0.9s" begin="2.0s" fill="freeze"/>
     </rect>
     <text x="520" y="134" opacity="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#57606A">4 PRs merged<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.4s" fill="freeze"/></text>
-    <text x="930" y="92" opacity="0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#0969DA">→ prs<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.5s" fill="freeze"/></text>
 
     <text x="40" y="193" opacity="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#1A7F37">✓<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.8s" fill="freeze"/></text>
     <text x="64" y="194" clip-path="url(#p2)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#1A7F37">freecodecamp</text>
@@ -49,7 +48,6 @@
       <animate attributeName="width" from="0" to="330" dur="0.9s" begin="3.2s" fill="freeze"/>
     </rect>
     <text x="520" y="236" opacity="0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#57606A">10M+ learners<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.6s" fill="freeze"/></text>
-    <text x="930" y="194" opacity="0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#0969DA">→ pr<animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.7s" fill="freeze"/></text>
 
     <text x="40" y="261" clip-path="url(#pf)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#6E7781">2 orgs · 5 merged PRs · reviewed &amp; merged by core maintainers</text>
   </g>
