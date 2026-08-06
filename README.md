@@ -4,10 +4,6 @@
   <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="assets/header-light.svg">
 </picture>
 
-<p align="center">
-  <img src="assets/profile-photo.jpg" width="240" alt="Nikhil Kumar Panigrahi">
-</p>
-
 ```yaml
 # hey, thanks for stopping by 👋
 name: Nikhil Kumar Panigrahi
