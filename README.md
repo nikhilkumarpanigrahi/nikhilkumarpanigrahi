@@ -4,14 +4,7 @@
   <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="assets/header-light.svg">
 </picture>
 
-```text
-> whoami --verbose
-
-name     : Nikhil Kumar Panigrahi
-role     : Backend Developer Intern @ WhatBytes (Django DRF · PostgreSQL)
-base     : Hyderabad, India · B.Tech CSE @ KL University (CGPA 9.7)
-focus    : production REST APIs · RAG pipelines · open source
-```
+Backend developer and ML engineer in Hyderabad, India. Currently a **Backend Developer Intern at WhatBytes**, building production REST APIs with Django REST Framework and PostgreSQL. Previously an AI/ML intern at Infosys Springboard and a CLAM Team contributor to Oppia Android with four merged pull requests.
 
 ---
 
@@ -57,16 +50,5 @@ focus    : production REST APIs · RAG pipelines · open source
 - MongoDB Associate Developer
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumarpanigrahi&layout=compact&hide_border=true&bg_color=0D1117&text_color=8B949E&title_color=58A6FF&icon_color=58A6FF&langs_count=6">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumarpanigrahi&layout=compact&hide_border=true&bg_color=FFFFFF&text_color=374151&title_color=4338CA&icon_color=4338CA&langs_count=6">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/nikhilkumarpanigrahi/nikhilkumarpanigrahi/output/github-contribution-grid-snake.svg">
-</picture>
 
 Find me on [GitHub](https://github.com/nikhilkumarpanigrahi) · [LinkedIn](https://www.linkedin.com/in/nikhilkumarpanigrahi) · [Email](mailto:nikhilkumarpanigrahi29@gmail.com) · [LeetCode](https://leetcode.com/Nikhil_162) · [CodeChef](https://www.codechef.com/users/free_flies_92) · [Codeforces](https://codeforces.com/profile/nomort0002)

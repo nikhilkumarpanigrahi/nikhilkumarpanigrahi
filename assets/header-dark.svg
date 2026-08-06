@@ -12,7 +12,7 @@
   </defs>
   <rect x="0" y="0" width="1000" height="210" rx="18" fill="url(#bg)"/>
   <rect x="0" y="0" width="8" height="210" rx="4" fill="url(#bar)"/>
-  <text x="44" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="44" font-weight="700" fill="#F5F7FF">Nikhil Kumar Panigrahi</text>
-  <text x="46" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#A5B4FC">&gt; backend &#183; python &#183; django &#183; ml-engineering</text>
-  <text x="46" y="160" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#8B949E">$ whoami &#8594; Backend Developer Intern @ WhatBytes &#183; Hyderabad, India</text>
+  <text x="44" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="42" font-weight="700" fill="#F5F7FF">Nikhil Kumar Panigrahi</text>
+  <text x="46" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#A5B4FC">Backend Developer &#183; ML Engineer &#183; Hyderabad, India</text>
+  <text x="46" y="164" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#8B949E">Backend Developer Intern @ WhatBytes &#183; Django REST Framework &#183; PostgreSQL</text>
 </svg>
