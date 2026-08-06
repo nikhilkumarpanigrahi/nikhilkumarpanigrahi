@@ -4,7 +4,27 @@
   <img alt="Nikhil Kumar Panigrahi — Backend Developer & ML Engineer" src="assets/header-light.svg">
 </picture>
 
-Backend developer and ML engineer in Hyderabad, India. Currently a **Backend Developer Intern at WhatBytes**, building production REST APIs with Django REST Framework and PostgreSQL. Previously an AI/ML intern at Infosys Springboard and a CLAM Team contributor to Oppia Android with four merged pull requests.
+```yaml
+# hey, thanks for stopping by 👋
+name: Nikhil Kumar Panigrahi
+role: Backend Developer & ML Engineer
+location: Hyderabad, India
+
+currently:
+  company: WhatBytes
+  position: Backend Developer Intern
+  stack: [Django REST Framework, PostgreSQL]
+
+previously:
+  - AI/ML Intern @ Infosys Springboard
+  - CLAM Team @ Oppia Android — 4 merged PRs
+
+open_to: internships & collaborations
+```
+
+● &nbsp;open to internships & collaborations
+
+Building things that make data useful — from REST APIs to retrieval pipelines. Always happy to talk backend, ML, or open source.
 
 ---
 
