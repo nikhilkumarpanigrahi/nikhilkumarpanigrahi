@@ -8,7 +8,7 @@
 # hey, thanks for stopping by 👋
 name: Nikhil Kumar Panigrahi
 role: Backend Developer & ML Engineer
-location: Hyderabad, India
+location: Hyd, India
 
 currently:
   company: WhatBytes
