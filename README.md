@@ -55,7 +55,7 @@ open_to: internships & collaborations
 
 - **[CompanyMind](https://github.com/nikhilkumarpanigrahi/CompanyMind)** — Semantic search and RAG over 2,000+ enterprise documents. Hybrid retrieval (MongoDB Atlas Vector Search + full-text + Reciprocal Rank Fusion), FastAPI/Express.js, Groq Llama 3, SSE streaming. Cached responses < 1 ms, hybrid retrieval < 200 ms. — [Live](https://companymind-web.onrender.com/)
   - 🏆 **2nd Runner-Up — MongoDB Smart Bridge Hack N Go**
-- **[ASSISTLY](https://github.com/nikhilkumarpanigrahi/Assistly)** — Community-care platform. Flask + React.js + Firebase real-time sync, JWT auth with role-based access. — [Live](https://assistly-oojv.onrender.com/login)
+- **[ASSISTLY](https://github.com/nikhilkumarpanigrahi/Assistly)** — Community-care platform. Flask + React.js + Firebase real-time sync, JWT auth with role-based access. — [Live](https://assistly-oojv.onrender.com)
 - **[Aadhaar Fraud Detection](https://github.com/nikhilkumarpanigrahi/AI-BASED-FRAUD-DETECTTION-SYSTEM-USING-UID-AADHAAR)** — OCR + ML identity verification (see Infosys internship above).
 
 ## Open Source
