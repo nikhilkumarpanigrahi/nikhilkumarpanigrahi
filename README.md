@@ -38,7 +38,6 @@ open_to:     Backend, Systems & Software Engineering Roles
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=3776AB)
-![Rust](https://img.shields.io/badge/Rust-1F2937?style=for-the-badge&logo=rust&logoColor=CE412B)
 ![Java](https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1F2937?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Django](https://img.shields.io/badge/Django_REST-1F2937?style=for-the-badge&logo=django&logoColor=44B78B)
